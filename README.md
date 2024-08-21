@@ -1,1 +1,0 @@
-# NANDEEE · Adnan Faize Static Website

@@ -1,1 +1,0 @@
-<!-- filter products by keywords or tags -->
